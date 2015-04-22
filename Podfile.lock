@@ -1,0 +1,10 @@
+PODS:
+  - UIImage+BlurredFrame (0.0.4)
+
+DEPENDENCIES:
+  - UIImage+BlurredFrame
+
+SPEC CHECKSUMS:
+  UIImage+BlurredFrame: 0c38f5760d72125c47d16001a88faaac573bd35d
+
+COCOAPODS: 0.33.1
